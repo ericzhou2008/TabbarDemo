@@ -1,22 +1,22 @@
 //
-//  SecondViewController.m
+//  ThreeViewController.m
 //  TabbarDemo
 //
-//  Created by mygame on 15/8/7.
+//  Created by mygame on 15/9/15.
 //  Copyright (c) 2015年 mygame. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "ThreeViewController.h"
 
-@interface SecondViewController ()
+@interface ThreeViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation ThreeViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
@@ -29,4 +29,5 @@
     
     NSLog(@"%s", __PRETTY_FUNCTION__);
 }
+
 @end
